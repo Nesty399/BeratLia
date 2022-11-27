@@ -1,1 +1,1 @@
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/1021051523351978054?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/1021051523351978054)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/928259219038302258?hideDiscrim=true)](https://discord.com/users/928259219038302258)
